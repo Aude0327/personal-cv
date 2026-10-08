@@ -4,7 +4,7 @@
 
 Name: Aude Mar Hyra V. Busaco
 Year Level: 4th Year
-Program: BSIT
+Program: BSIT (Bachelor of Science in Information Technology)
 Set/Section: 4C
 Subject: IT415 - Application Development and Emerging Technologies
 
